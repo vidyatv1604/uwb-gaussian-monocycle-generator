@@ -62,7 +62,7 @@ The system converts an input trigger signal into a **clean, broadband monocycle 
 | Crystal Oscillator | 10 MHz clock source |
 | Microstrip Lines | RF transmission |
 | Resistors | Biasing & current control |
-| RF PCB | Substrate for layout |
+| RF PCB | FR4 Substrate for layout |
 
 ## Hardware Implementation
 
